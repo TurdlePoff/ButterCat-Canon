@@ -1,0 +1,31 @@
+Butter Cat Canon
+
+There are 5 states to this game.
+
+The window starts up on the Menu screen 
+	[1] - Typing 1 will switch on this state
+- On this menu screen you are able to use 
+	- The up and down arrow keys
+	- Space bar - The space bar allows you select start game or exit game.
+
+The next state is the 'Churn' state
+	[2] - Typing 2 will switch on this state
+- In this state, the player should only be able to 
+	- type 'A' and 'D' keys consecutively
+	- see the counter of Churn power via the banner at the top of the window or in the text above the keys being pressed
+	- The animation rotates based on manual input
+	
+The next state is the 'Aiming' state
+	[3] - Typing 3 will switch on this state
+- In this state the player should be able to 
+	- Type 'W' and 'S' keys to trigger the canon's movement
+	- There are 4 canon aiming states
+[Issue] - Ran out of time. Should be able to shoot and display an explosion animation along with the cat flying out of the canon
+
+The next state is the 'Moving' state
+	[4] - Typing 4 will switch on this state
+- In this state the player should be able to move via the arrow keys and jump using the space bar
+
+The last state using the [5] key - Typing 5
+	- A power up sprite will show up in the middle of the screen every time it is pressed.
+	- The cat is able to jump and collect that sprite.
